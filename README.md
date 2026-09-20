@@ -40,8 +40,6 @@
 
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2295a766-072b-4ce0-a4e5-b2bb6479737b" />
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/e75d4031-91e9-491d-a5ea-f10e7b1c0f2f" />
-
 7.🔗[温度转换器](https://lmc-coder-dev.github.io/JavaScript-Study-Project/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E5%99%A8/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2%E5%99%A8.html)
 
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/e20f153c-2ca8-4617-838d-b5613ae4c2e7" />
